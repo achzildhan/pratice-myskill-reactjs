@@ -1,0 +1,237 @@
+{
+    "main": {
+        "name": "Raden Achmad Zildhan Frans Bestand",
+        "description": "I'm a undergraduate student at UIN Jakarta majoring Information System. I'm passionate and interested on web development, data science, and mobile application development. I also fluent in English, Japanese, and Mandarin.",
+        "github": "https://github.com/zildhanfb08",
+        "project": "https://github.com/zildhanfb08",
+        "bio": "Hi there! Let me introduce myself, my name is Raden Achmad Zildhan Frans Bestand and you can call me Zildhan. I'm an undergraduate student at UIN Jakarta majoring Information Systems. Basically, I am a newbie in any kind of development, but for real I really passionate and want to learn more.",
+        "image": "profilepic.jpg",
+        "contactmessage": "Hi! You can contact me by this following sites. Let's get connected and contribute each other!",
+        "email": "zildhanfb08@gmail.com",
+        "phone": "0857-1772-6953",
+        "address": {
+            "street": "Palapa Raya Street",
+            "city": "West Jakarta",
+            "state": "Indonesia",
+            "zip": "11520"
+        },
+        "website": "https://github.com/zildhanfb08",
+        "resumedownload": "https://github.com/zildhanfb08",
+        "social": [
+            {
+                "name": "Facebook",
+                "url": "https://www.facebook.com/radenachmadzildhan.bestand",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "Twitter",
+                "url": "https://twitter.com/bigwin_yukah",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "Instagram",
+                "url": "https://www.instagram.com/razfb05/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/in/raden-achmad-zildhan-fb",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "Github",
+                "url": "https://github.com/zildhanfb08",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "I'm passionate in web developing using HTML, CSS, Javascript, React, and Boostrap. I am also passionate in data analyst and data visualization using Tableau, Phyton, PHP, MySQL, and Excel.",
+        "education": [
+            {
+                "school": "Islamic State University of Syarif Hidayatullah Jakarta",
+                "degree": "Bachelor Degree of Information Systems",
+                "graduated": "November 2026",
+                "description": "I'm active on joining several IT competition, having experiences as a volunteer such as Bangkit Academy and Goto by Gojek, and I'm also a participant in university's organization."
+            },
+            {
+                "school": "SMAS Al Kamal",
+                "degree": "Natural Science",
+                "graduated": "May 2023",
+                "description": "I'm joining math, physic, biology, and chemistry national olympiad."
+            }
+        ],
+        "work": [
+            {
+                "company": "Pusat Karir UIN Jakarta",
+                "title": "Public Relation",
+                "years": "January 2024 - July 2024",
+                "description": "Manage some project like seminar and webinar as moderator and public relations."
+            },
+            {
+                "company": "Google",
+                "title": "Junior Software Developer (Intern)",
+                "years": "September 2024 - January 2025",
+                "description": "Developing a responsible website and doing analytical database." 
+            },
+            {
+                "company": "RevoU",
+                "title": "Data Analyst (Intern)",
+                "years": "February 2025 - July 2025",
+                "description": "Doing analysist database and system framework."
+            },
+            {
+                "company": "Bangkit Academy",
+                "title": "Machine Learning Developer (Intern)",
+                "years": "August 2025 - December 2025",
+                "description": "Learning machine learning and making a local project (mobile application) for support Botanical Indonesia"
+            }
+        ], 
+        "skills": [
+            {
+                "name": "HTML",
+                "level": "80%"
+            },
+            {
+                "name": "CSS",
+                "level": "70%"
+            },
+            {
+                "name": "Javascript",
+                "level": "70%"
+            },
+            {
+                "name": "Boostrap",
+                "level": "65%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "70%"
+            },
+            {
+                "name": "Kotlin",
+                "level": "65%"
+            },
+            {
+                "name": "Vuejs",
+                "level": "70%"
+            },
+            {
+                "name": "Swift",
+                "level": "60%"
+            },
+            {
+                "name": "Excel",
+                "level": "85%"
+            },
+            {
+                "name": "Golang",
+                "level": "65%"
+            },
+            {
+                "name": "PHP",
+                "level": "60%"
+            },
+            {
+                "name": "Phyton",
+                "level": "60%"
+            },
+            {
+                "name": "SQL",
+                "level": "60%"
+            },
+            {
+                "name": "Java",
+                "level": "60%"
+            },
+            {
+                "name": "C++",
+                "level": "60%"
+            },
+            {
+                "name": "C#",
+                "level": "60%"
+            },
+            {
+                "name": "Laravel",
+                "level": "60%"
+            }
+        ]
+    },
+    "portofolio" : {
+        "projects": [
+            {
+                "title": "Canadian Wanderlust",
+                "category": "My travel blog for my post-university travel",
+                "image": "01.jpg",
+                "url": "https://canadianwanderlust.com"
+            },
+            {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com"
+            },
+            {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+            },
+            {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+            },
+            {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+            },
+            {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+            },
+            {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"01.jpg",
+                "url":"http://www.timbakerdev.com"
+            },
+            {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+            },
+            {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+            },
+            {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+            },
+            {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+            },
+            {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+            }
+        ]
+    }
+}
